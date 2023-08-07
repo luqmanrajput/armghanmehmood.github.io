@@ -47,7 +47,7 @@ const Contact = () => {
             <div className="contact__form">
               {/* right */}
               <form
-                action="https://formsubmit.co/1d5362289dba7e7336b2df02408e40b1"
+                action="https://formsubmit.co/armghannmehmood@gmail.com"
                 method="POST"
                 autoComplete="off"
               >
