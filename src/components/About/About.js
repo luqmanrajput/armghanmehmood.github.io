@@ -46,7 +46,7 @@ const About = () => {
           <div className="about__section">
             {/* Image */}
             <div className="about__img">
-              <img src="images/armghanmehmood.jpeg" alt="..." />
+              <img src="images/armghan.jpg" alt="..." />
             </div>
             {/* About Details*/}
             <div className="about__details">

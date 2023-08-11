@@ -14,7 +14,7 @@ const Contact = () => {
                 <i className="fa-solid fa-location-dot icon"></i> Chak No
                 282/H.R Tehsil Fort Abbas South Punjab Pakistan
               </p>
-              <p>
+              <p style={{ margin: "8px 0px", wordBreak: "break-all" }}>
                 <i className="fa-solid fa-envelope icon"></i>{" "}
                 armghannmehmood@gmail.com
               </p>

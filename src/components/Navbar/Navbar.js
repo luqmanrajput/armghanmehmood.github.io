@@ -30,9 +30,6 @@ const Navbar = () => {
               <a href="#tech">Tech.</a>
             </li>
             <li>
-              <a href="#services">Services</a>
-            </li>
-            <li>
               <a href="#portfolio">Portfolio</a>
             </li>
             <li>
